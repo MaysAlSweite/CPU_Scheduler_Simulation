@@ -1,2 +1,2 @@
 # OS_Project
-CPU Scheduler Simulation
+Operating Systems project
